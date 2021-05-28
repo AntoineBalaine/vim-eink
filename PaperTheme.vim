@@ -6,6 +6,7 @@
 "
 " The purpose of this project is to provide a paper-like color set for e-ink
 " users.
+" Similar to VSCode's e-ink theme 
 "
 " cool help screens
 " :he group-name
